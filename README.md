@@ -2,7 +2,8 @@
 
 Hello this uabea is not mine this was someones idk who you but yea enjoy it file is in the other 1 called uabea.zip
 
-https://github.com/nesrak1/UABEA/blob/master/UABEAvalonia/Assets/logo.png
+![image](https://github.com/user-attachments/assets/114b96da-184e-4ef9-a44d-f3e0458a2c92)
+
 
 ross-platform Asset Bundle/Serialized File reader and writer. Originally based on (but not a fork of) UABE.
 
